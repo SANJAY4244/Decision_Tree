@@ -1,0 +1,21 @@
+company,job,degree,salary
+Google,Software Engineer,Bachelors,1
+Google,Software Engineer,Masters,1
+Google,Data Scientist,Masters,1
+Google,HR,Bachelors,0
+Amazon,Software Engineer,Bachelors,1
+Amazon,Software Engineer,Masters,1
+Amazon,Data Scientist,Masters,1
+Amazon,HR,Bachelors,0
+Facebook,Software Engineer,Bachelors,1
+Facebook,Data Scientist,Masters,1
+Facebook,HR,Bachelors,0
+Microsoft,Software Engineer,Bachelors,1
+Microsoft,Data Scientist,Masters,1
+Microsoft,HR,Bachelors,0
+Infosys,Software Engineer,Bachelors,0
+Infosys,Data Analyst,Bachelors,0
+Infosys,HR,Bachelors,0
+TCS,Software Engineer,Bachelors,0
+TCS,Data Analyst,Bachelors,0
+TCS,HR,Bachelors,0
